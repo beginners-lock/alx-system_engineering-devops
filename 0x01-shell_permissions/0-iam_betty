@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo passwd betty
+su betty
